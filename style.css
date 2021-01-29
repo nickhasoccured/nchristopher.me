@@ -1,11 +1,20 @@
-@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@600&family=Roboto&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&family=Roboto:wght@400;700&display=swap");
 
 body {
-	background-color: #111111;
+	/* Centers page */
+	max-width: 500px;
 	min-height: 100%;
+	margin: auto;
+	
+	background-color: black;
 	font-family: "Roboto", sans-serif;
 	color: white;
-	text-align: center;
+
+	/* Pushes footer to the bottom */
+	display: flex;
+	min-height: 100vh;
+	flex-direction: column;
+	justify-content: space-between;
 }
 
 a {
@@ -13,26 +22,16 @@ a {
 	color: dodgerblue;
 }
 
-h1.name {
-	font-family: "Montserrat", sans-serif;
+h1 {
 	font-size: 40px;
 }
 
-img {
-	padding: 10px;
-	max-width: 100%;
+.footer {
+	margin-bottom: 5%;
+	text-align: center;
 }
 
-img:hover {
-	width: 156px;
-	transition: width 0.3s;
-}
-
-img:not(:hover) {
-	width: 128px;
-	transition: width 0.5s;
-}
-
-footer {
-	font-size: 15px;
+.footer img {
+	width: 32px;
+	margin: 16px;
 }
