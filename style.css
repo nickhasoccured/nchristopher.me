@@ -27,6 +27,13 @@ h1 {
 	font-size: 40px;
 }
 
+img.emoji {
+	height: 1em;
+	width: 1em;
+	margin: 0 0.05em 0 0.1em;
+	vertical-align: -0.1em;
+}
+
 .center {
 	text-align: center;
 }
@@ -38,5 +45,5 @@ h1 {
 
 .footer img {
 	width: 32px;
-	margin: 16px;
+	margin: 0px 16px 16px;
 }
