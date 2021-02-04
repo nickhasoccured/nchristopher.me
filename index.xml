@@ -5,17 +5,28 @@
     <link>https://nchristopher.me/</link>
     <description>Recent content on Nicholas Christopher</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 02 Feb 2021 17:32:26 -0800</lastBuildDate><atom:link href="https://nchristopher.me/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Feb 2021 12:00:00 -0800</lastBuildDate><atom:link href="https://nchristopher.me/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The &#34;Open&#34; Web</title>
       <link>https://nchristopher.me/posts/the-open-web/</link>
-      <pubDate>Tue, 02 Feb 2021 17:32:26 -0800</pubDate>
+      <pubDate>Mon, 01 Feb 2021 12:00:00 -0800</pubDate>
       
       <guid>https://nchristopher.me/posts/the-open-web/</guid>
       <description>I&amp;rsquo;ve always thought that everyone should have a website.
 It doesn&amp;rsquo;t have to be a big, gigantic project, it could even just be a page that says hello.
 Our identities on the internet often only exist on others&#39; websites - like Twitter, Instagram, and Facebook. Having your own website puts you in control, and that&amp;rsquo;s important for an open web.
 Not to say social media is necessarily bad - we&amp;rsquo;ve just put too much control in big, for-profit companies.</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://nchristopher.me/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nchristopher.me/about/</guid>
+      <description>Hello, I&amp;rsquo;m Nick! I make open-source software for the internet. My projects aim to be useful to me or (hopefully) useful to others. I’m currently using web-based languages, but I’m looking to branch out in the future!
+Here&amp;rsquo;s what I&amp;rsquo;m working on:
+ Quoter - a Discord bot which stores quotes for servers &amp;amp; retrieves them on demand. It supports listing, (randomly) displaying, deleting, and editing quotes! PPS Credentials - a tool for PPS students to generate default credentials for their account.</description>
     </item>
     
     <item>
