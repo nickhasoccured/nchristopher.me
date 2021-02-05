@@ -1,2 +1,3 @@
 # [nchristopher.me](https://nchristopher.me)
-This is my personal, static website, hosted with GitHub pages. It's mainly used to link elsewhere on the internet, there's not much functionality on the website itself.
+
+This is my personal site & blog, generated using [Hugo](https://gohugo.io) along with the awesome [PaperMod](https://github.com/adityatelange/hugo-PaperMod) theme.
