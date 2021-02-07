@@ -5,7 +5,18 @@
     <link>https://nchristopher.me/posts/</link>
     <description>Recent content in Posts on Nicholas Christopher</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 01 Feb 2021 12:00:00 -0800</lastBuildDate><atom:link href="https://nchristopher.me/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 07 Feb 2021 01:45:00 -0800</lastBuildDate><atom:link href="https://nchristopher.me/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Your CPU has a Backdoor</title>
+      <link>https://nchristopher.me/posts/cpu-backdoor/</link>
+      <pubDate>Sun, 07 Feb 2021 01:45:00 -0800</pubDate>
+      
+      <guid>https://nchristopher.me/posts/cpu-backdoor/</guid>
+      <description>It&amp;rsquo;s well known that closed-source operating systems (like Windows and macOS) aren&amp;rsquo;t exactly good for privacy &amp;amp; security. There&amp;rsquo;s essentially no way for a closed-source system&amp;rsquo;s code to be verified.
+Which is why people concerned about their privacy &amp;amp; security should use Libre operating systems, such as Linux. But that&amp;rsquo;s not where it ends.
+The Intel Management Engine Intel&amp;rsquo;s Management Engine (ME for short, which is what I&amp;rsquo;ll be calling it) is a seperate computing enviornment present on every Intel chip since mid 2006.</description>
+    </item>
+    
     <item>
       <title>The &#34;Open&#34; Web</title>
       <link>https://nchristopher.me/posts/the-open-web/</link>
