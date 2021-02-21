@@ -6,7 +6,17 @@
     <description>Recent content in Posts on Nicholas Christopher</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; 2021 Nicholas Christopher • [Source](https://github.com/nickhasoccured/nchristopher.me)</copyright>
-    <lastBuildDate>Sun, 07 Feb 2021 01:45:00 -0800</lastBuildDate><atom:link href="https://nchristopher.me/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 21 Feb 2021 15:00:00 -0800</lastBuildDate><atom:link href="https://nchristopher.me/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why Privacy Matters</title>
+      <link>https://nchristopher.me/posts/why-privacy-matters/</link>
+      <pubDate>Sun, 21 Feb 2021 15:00:00 -0800</pubDate>
+      
+      <guid>https://nchristopher.me/posts/why-privacy-matters/</guid>
+      <description>Privacy is one of the most important things we have. But, in the “digital age”, it seems to be slipping further and further away.
+Most people have taken convenience over the basic right of privacy. For instance, Google is (arguably) the best search engine out there – it can fetch millions of results in a fraction of a second, usually has exactly what you’re looking for, and has a fairly modern design.</description>
+    </item>
+    
     <item>
       <title>Your CPU has a Backdoor</title>
       <link>https://nchristopher.me/posts/cpu-backdoor/</link>
