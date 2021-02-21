@@ -51,14 +51,18 @@ params:
           url: "https://twitter.com/nickhasoccured"
         - name: GitHub
           url: "https://github.com/nickhasoccured"
-        - name: email
-          url: "mailto:nchristopher@tuta.io"
         - name: Reddit
           url: "https://reddit.com/u/nickhasoccured"
-        - name: KoFi
-          url: "https://ko-fi.com/nchristopher"
+        - name: Keybase
+          url: "https://keybase.io/nickhasoccured"
+        - name: Mastodon
+          url: "https://mastodon.online/@nchristopher"
         - name: Twitch
           url: "https://twitch.tv/nickhasoccured"
+        - name: KoFi
+          url: "https://ko-fi.com/nchristopher"
+        - name: email
+          url: "mailto:nchristopher@tuta.io"
         - name: RsS
           url: "index.xml"
 
