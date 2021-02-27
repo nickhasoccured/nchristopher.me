@@ -13,10 +13,10 @@ And it's not just search - you likely use Google products in multiple aspects of
 
 And you begin to think: should we trust them with all this _sensitive_ data? Well, that's quite simple: **no**.
 
-Google's _only_ priority is increasing their stock, making more money for their shareholders. Everything they do is strategically designed to make you _feel_ like you can trust them, when, in reality, they're just trying to make as much money as possible of of you.
+Google's _only_ priority is increasing their stock, making more money for their shareholders. Everything they do is strategically designed to make you _feel_ like you can trust them, when, in reality, they're just trying to make as much money as possible out of you.
 
 This isn't exclusive to Google, either - this applies to pretty much _every_ big tech company - Apple, Facebook, Microsoft, Verizon, Yahoo, etc..
 
 It's especially concerning when you _also_ realize that they're [sharing](<https://en.wikipedia.org/wiki/PRISM_(surveillance_program)>) this information with each other & the government.
 
-This is why I try to use & promote open-source tech - there's no trust involved with it _if_ you can read the code yourself. Personally, I use services like [ProtonMail](https://protonmail.com), [Tutanota](https://tutanota.com), and [Signal](https://signal.org) - they're all open-source, private and secure, but still have great features. [PrivacyTools.io](https://privacytools.io) is a great place to find alternatives to more products & services.
+This is why I try to use & promote open-source tech - there's no trust involved with it _if_ you can read the code yourself. Personally, I use services like [ProtonMail](https://protonmail.com), [Bitwarden](https://bitwarden.com), and [Signal](https://signal.org) - they're all open-source, private and secure, but still have great features. [PrivacyTools.io](https://privacytools.io) is a great place to find alternatives to more products & services.
