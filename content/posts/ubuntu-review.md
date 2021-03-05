@@ -1,7 +1,7 @@
 ---
 title: "Ubuntu Review"
 date: 2021-03-04T19:00:00-08:00
-draft: true
+draft: false
 tags: ["linux", "review", "tech"]
 cover:
     image: "img/ubuntu-desktop.png"
