@@ -1,6 +1,6 @@
 baseURL: "https://nchristopher.me/"
 title: Nicholas Christopher
-theme: hugo-PaperMod
+theme: PaperMod
 paginate: 5
 
 enableInlineShortcodes: true
