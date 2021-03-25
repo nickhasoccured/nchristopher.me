@@ -4,6 +4,10 @@
     <title>Nicholas Christopher</title>
     <link>https://nchristopher.me/</link>
     <description>Recent content on Nicholas Christopher</description>
+    <image>
+      <url>https://nchristopher.me/img/og-banner.png</url>
+      <link>https://nchristopher.me/img/og-banner.png</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; 2021 Nicholas Christopher • [Source](https://github.com/nickhasoccured/nchristopher.me)</copyright>
     <lastBuildDate>Thu, 04 Mar 2021 19:00:00 -0800</lastBuildDate><atom:link href="https://nchristopher.me/index.xml" rel="self" type="application/rss+xml" />
@@ -61,23 +65,7 @@ Here&amp;rsquo;s what I&amp;rsquo;m working on:
  Quoter - a Discord bot which stores quotes for servers &amp;amp; retrieves them on demand. It supports listing, (randomly) displaying, deleting, and editing quotes! PPS Credentials - a tool for PPS students to generate default credentials for their account.</description>
     </item>
     
-    <item>
-      <title>Archive</title>
-      <link>https://nchristopher.me/archive/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nchristopher.me/archive/</guid>
-      <description></description>
-    </item>
     
-    <item>
-      <title>Search</title>
-      <link>https://nchristopher.me/search/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nchristopher.me/search/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
