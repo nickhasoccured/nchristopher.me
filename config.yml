@@ -1,6 +1,6 @@
 baseURL: "https://nchristopher.me/"
-title: Nicholas Christopher
-theme: PaperMod
+title: "Nicholas Christopher"
+theme: "PaperMod"
 paginate: 5
 
 enableInlineShortcodes: true
@@ -26,7 +26,7 @@ outputs:
 params:
     env: production
     description: "I make open-source software for the internet."
-    author: Nicholas Christopher
+    author: "Nicholas Christopher"
     # author: ["Me", "You"] # multiple authors
 
     defaultTheme: auto
@@ -78,10 +78,11 @@ params:
         apple_touch_icon: "icon/apple-touch-icon.png"
         # safari_pinned_tab: <path>
 
-    cover:
-        hidden: false # hide everywhere but not in structured data
-        hiddenInList: false # hide on list pages and home
-        hiddenInSingle: false # hide on single page
+    # cover:
+    #     responsiveImages: true
+    #     hidden: false # hide everywhere but not in structured data
+    #     hiddenInList: false # hide on list pages and home
+    #     hiddenInSingle: false # hide on single page
 
 menu:
     main:
