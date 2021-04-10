@@ -1,4 +1,4 @@
-name: Generate Site
+name: Build & Deploy Site
 
 on:
     push:
@@ -6,18 +6,27 @@ on:
             - main
 
 jobs:
-    build-deploy:
+    deploy:
         runs-on: ubuntu-latest
-
         steps:
             - name: Checkout Repo
-              uses: actions/checkout@master
+            - uses: actions/checkout@5a4ac9002d0be2fb38bd78e4b4dbde5606d7042f
               with:
                   submodules: true
-            - name: Publish Site
-              uses: chabad360/hugo-gh-pages@b0f6144d4f9898856f67a4bfad5fdd525259bc3c
+                  fetch-depth: 0
+
+            - name: Setup Hugo
+              uses: peaceiris/actions-hugo@2e89aa66d0093e4cd14751b3028fc1a179452c2e
               with:
-                  githubToken: ${{ secrets.PERSONAL_TOKEN }}
-                  branch: generated
-                  cname: nchristopher.me
-                  args: --gc --cleanDestinationDir
+                  hugo-version: "0.80.0"
+                  extended: true
+
+            - name: Build Site
+              run: hugo --minify --gc --cleanDestinationDir
+
+            - name: Deploy
+              uses: peaceiris/actions-gh-pages@068dc23d9710f1ba62e86896f84735d869951305
+              with:
+                  github_token: ${{ secrets.GITHUB_TOKEN }}
+                  publish_branch: generated
+                  publish_dir: ./
