@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nicholas Christopher</title>
+    <link>https://nchristopher.me/</link>
+    <description>Recent content on Nicholas Christopher</description>
+    <image>
+      <url>https://nchristopher.me/img/og-banner.png</url>
+      <link>https://nchristopher.me/img/og-banner.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&amp;copy; 2021 Nicholas Christopher • [Source](https://github.com/nickhasoccured/nchristopher.me)</copyright>
+    <lastBuildDate>Wed, 07 Apr 2021 21:00:00 -0700</lastBuildDate><atom:link href="https://nchristopher.me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Goodbye, Signal</title>
+      <link>https://nchristopher.me/posts/goodbye-signal/</link>
+      <pubDate>Wed, 07 Apr 2021 21:00:00 -0700</pubDate>
+      
+      <guid>https://nchristopher.me/posts/goodbye-signal/</guid>
+      <description>Signal was a refreshing take on privacy. It employed strong end-to-end encryption, was open-source, and was something I could genuinely put my trust in.
+However, that has changed recently. Signal introduced crypto payments in the latest preview of their app - and it&amp;rsquo;s more or less just a scam. For starters, they&amp;rsquo;re using &amp;ldquo;MobileCoin&amp;rdquo;, which nobody has ever heard of. But the real issue is that the coin is pre-mined, in other words, every coin has already been created.</description>
+    </item>
+    
+    <item>
+      <title>Ubuntu Review</title>
+      <link>https://nchristopher.me/posts/ubuntu-review/</link>
+      <pubDate>Thu, 04 Mar 2021 19:00:00 -0800</pubDate>
+      
+      <guid>https://nchristopher.me/posts/ubuntu-review/</guid>
+      <description>Around a week ago, I decided to finally bite the bullet &amp;amp; switch to Ubuntu. It was relatively easy for me, I didn&amp;rsquo;t have many files to transfer (most of my disk space was used by programs), and the Ubuntu installation process is much more user-friendly.
+I&amp;rsquo;ve been gradually switching to FOSS services, so using Ubuntu (or pretty much any Linux distro, for that matter) was a no-brainer. I kept using Windows for so long because, for the most part, it worked well.</description>
+    </item>
+    
+    <item>
+      <title>Why Privacy Matters</title>
+      <link>https://nchristopher.me/posts/why-privacy-matters/</link>
+      <pubDate>Sun, 21 Feb 2021 15:00:00 -0800</pubDate>
+      
+      <guid>https://nchristopher.me/posts/why-privacy-matters/</guid>
+      <description>Privacy is one of the most important things we have. But, in the “digital age”, it seems to be slipping further and further away.
+Most people have taken convenience over the basic right of privacy. For instance, Google is (arguably) the best search engine out there – it can fetch millions of results in a fraction of a second, usually has exactly what you’re looking for, and has a fairly modern design.</description>
+    </item>
+    
+    <item>
+      <title>Your CPU has a Backdoor</title>
+      <link>https://nchristopher.me/posts/cpu-backdoor/</link>
+      <pubDate>Sun, 07 Feb 2021 01:45:00 -0800</pubDate>
+      
+      <guid>https://nchristopher.me/posts/cpu-backdoor/</guid>
+      <description>It&amp;rsquo;s well known that closed-source operating systems (like Windows and macOS) aren&amp;rsquo;t exactly good for privacy &amp;amp; security. There&amp;rsquo;s essentially no way for a closed-source system&amp;rsquo;s code to be verified.
+Which is why people concerned about their privacy &amp;amp; security should use Libre operating systems, such as Linux. But that&amp;rsquo;s not where it ends.
+The Intel Management Engine Intel&amp;rsquo;s Management Engine (ME for short, which is what I&amp;rsquo;ll be calling it) is a seperate computing enviornment present on every Intel chip since mid 2006.</description>
+    </item>
+    
+    <item>
+      <title>The &#34;Open&#34; Web</title>
+      <link>https://nchristopher.me/posts/the-open-web/</link>
+      <pubDate>Mon, 01 Feb 2021 12:00:00 -0800</pubDate>
+      
+      <guid>https://nchristopher.me/posts/the-open-web/</guid>
+      <description>I&amp;rsquo;ve always thought that everyone should have a website.
+It doesn&amp;rsquo;t have to be a big, gigantic project, it could even just be a page that says hello.
+Our identities on the internet often only exist on others&#39; websites - like Twitter, Instagram, and Facebook. Having your own website puts you in control, and that&amp;rsquo;s important for an open web.
+Not to say social media is necessarily bad - we&amp;rsquo;ve just put too much control in big, for-profit companies.</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://nchristopher.me/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nchristopher.me/about/</guid>
+      <description>Hello, I&amp;rsquo;m Nick! I make open-source software for the internet. My projects aim to be useful to me or (hopefully) useful to others. I’m currently using web-based languages, but I’m looking to branch out in the future!
+Here&amp;rsquo;s what I&amp;rsquo;m working on:
+ Quoter - a Discord bot which stores quotes for servers &amp;amp; retrieves them on demand. It supports listing, (randomly) displaying, deleting, and editing quotes! PPS Credentials - a tool for PPS students to generate default credentials for their account.</description>
+    </item>
+    
+    
+    
+  </channel>
+</rss>

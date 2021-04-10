@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>review on Nicholas Christopher</title>
+    <link>https://nchristopher.me/tags/review/</link>
+    <description>Recent content in review on Nicholas Christopher</description>
+    <image>
+      <url>https://nchristopher.me/img/og-banner.png</url>
+      <link>https://nchristopher.me/img/og-banner.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&amp;copy; 2021 Nicholas Christopher • [Source](https://github.com/nickhasoccured/nchristopher.me)</copyright>
+    <lastBuildDate>Thu, 04 Mar 2021 19:00:00 -0800</lastBuildDate><atom:link href="https://nchristopher.me/tags/review/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ubuntu Review</title>
+      <link>https://nchristopher.me/posts/ubuntu-review/</link>
+      <pubDate>Thu, 04 Mar 2021 19:00:00 -0800</pubDate>
+      
+      <guid>https://nchristopher.me/posts/ubuntu-review/</guid>
+      <description>Around a week ago, I decided to finally bite the bullet &amp;amp; switch to Ubuntu. It was relatively easy for me, I didn&amp;rsquo;t have many files to transfer (most of my disk space was used by programs), and the Ubuntu installation process is much more user-friendly.
+I&amp;rsquo;ve been gradually switching to FOSS services, so using Ubuntu (or pretty much any Linux distro, for that matter) was a no-brainer. I kept using Windows for so long because, for the most part, it worked well.</description>
+    </item>
+    
+  </channel>
+</rss>
