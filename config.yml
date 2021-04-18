@@ -47,14 +47,10 @@ params:
             I make open-source software for the internet. My projects aim to be useful to me or (*hopefully*) useful to others. I'm currently using web-based languages, but I'm looking to branch out in the future!
 
     socialIcons:
-        - name: Twitter
-          url: "https://twitter.com/nickhasoccured"
         - name: GitHub
           url: "https://github.com/nchristopher"
         - name: Reddit
           url: "https://reddit.com/u/nickhasoccured"
-        - name: Keybase
-          url: "https://keybase.io/nickhasoccured"
         - name: Mastodon
           url: "https://mastodon.online/@nchristopher"
         - name: Twitch
