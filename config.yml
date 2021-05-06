@@ -53,8 +53,6 @@ params:
           url: "https://reddit.com/u/nickhasoccured"
         - name: Mastodon
           url: "https://mastodon.online/@nchristopher"
-        - name: Twitch
-          url: "https://twitch.tv/nickhasoccured"
         - name: KoFi
           url: "https://ko-fi.com/nchristopher"
         - name: email
