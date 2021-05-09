@@ -15,7 +15,7 @@ minify:
     disableXML: true
     # minifyOutput: true
 
-copyright: "&copy; 2021 Nicholas Christopher • [Source](https://github.com/nickhasoccured/nchristopher.me)"
+copyright: "&copy; 2021 Nicholas Christopher • [Source](https://github.com/nchristopher/nchristopher.me)"
 
 outputs:
     home:
