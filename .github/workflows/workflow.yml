@@ -28,6 +28,8 @@ jobs:
               uses: peaceiris/actions-gh-pages@068dc23d9710f1ba62e86896f84735d869951305
               with:
                   github_token: ${{ secrets.GITHUB_TOKEN }}
+                  user_name: "github-actions[bot]"
+                  user_email: "github-actions[bot]@users.noreply.github.com"
                   cname: nchristopher.me
                   publish_branch: generated
                   publish_dir: ./public
