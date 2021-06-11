@@ -9,34 +9,6 @@
       <link>https://nchristopher.me/img/og-banner.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>&amp;copy; 2021 Nicholas Christopher • [Source](https://github.com/nchristopher/nchristopher.me)</copyright>
-    <lastBuildDate>Wed, 07 Apr 2021 21:00:00 -0700</lastBuildDate><atom:link href="https://nchristopher.me/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>tech</title>
-      <link>https://nchristopher.me/tags/tech/</link>
-      <pubDate>Wed, 07 Apr 2021 21:00:00 -0700</pubDate>
-      
-      <guid>https://nchristopher.me/tags/tech/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>linux</title>
-      <link>https://nchristopher.me/tags/linux/</link>
-      <pubDate>Thu, 04 Mar 2021 19:00:00 -0800</pubDate>
-      
-      <guid>https://nchristopher.me/tags/linux/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>review</title>
-      <link>https://nchristopher.me/tags/review/</link>
-      <pubDate>Thu, 04 Mar 2021 19:00:00 -0800</pubDate>
-      
-      <guid>https://nchristopher.me/tags/review/</guid>
-      <description></description>
-    </item>
-    
+    <copyright>&amp;copy; 2021 Nicholas Christopher • [Source](https://github.com/nchristopher/nchristopher.me)</copyright><atom:link href="https://nchristopher.me/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
