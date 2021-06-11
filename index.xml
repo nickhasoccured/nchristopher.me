@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Nicholas Christopher</title>
     <link>https://nchristopher.me/</link>
@@ -70,8 +70,7 @@ Not to say social media is necessarily bad - we&amp;rsquo;ve just put too much c
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://nchristopher.me/about/</guid>
-      <description>Hello, I&amp;rsquo;m Nick! I make open-source software for the internet. My projects aim to be useful to me or (hopefully) useful to others. I’m currently using web-based languages, but I’m looking to branch out in the future!
-Here&amp;rsquo;s what I&amp;rsquo;m working on:
+      <description>👋 Hey there, I&amp;rsquo;m Nick! I write code, sometimes it works. I&amp;rsquo;m currently using a (mostly) web-based tech stack, but I&amp;rsquo;m looking to branch out in the future! I&amp;rsquo;m a big fan of privacy &amp;amp; open-source software, so most of my projects reflect that:
  Quoter - a Discord bot which stores quotes for servers &amp;amp; retrieves them on demand. It supports listing, (randomly) displaying, deleting, and editing quotes! PPS Credentials - a tool for PPS students to generate default credentials for their account.</description>
     </item>
     
