@@ -25,7 +25,7 @@ outputs:
 
 params:
     env: production
-    description: "I make open-source software for the internet."
+    description: "I write code, sometimes it works."
     author: "Nicholas Christopher"
     # author: ["Me", "You"] # multiple authors
 
